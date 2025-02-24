@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 **anonynmous-exdash/anonynmous-exdash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! I make stuff with Scratch and JavaScript. Feel free to take a look around my [projects!](https://anonynmous-exdash.github.io/)
